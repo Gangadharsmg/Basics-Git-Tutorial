@@ -1,6 +1,6 @@
-git config --global user.name "girishl"
+git config --global user.name "gangadhar"
 
-git config --global user.email "girishlingappa7@gmail.com"
+git config --global user.email "gangadhar.smg24@gmail.com"
 
 git config --global color.ui true
 
